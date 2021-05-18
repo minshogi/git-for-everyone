@@ -1,4 +1,6 @@
 Title: Git for Everyone
 
-main branch i am happy!
-make branch2 merge!!!!
+
+hello world! 
+this is my git practice repository. 
+It so funny!
