@@ -3,4 +3,4 @@ Title: Git for Everyone
 
 hello world! 
 this is my git practice repository. 
-It so easy!
+It so hard...
